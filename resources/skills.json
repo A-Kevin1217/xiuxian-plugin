@@ -1,0 +1,22 @@
+{
+  "御剑术": { "power": 10, "cost": 5, "description": "操控飞剑攻击敌人" },
+  "五行遁术": { "power": 8, "cost": 3, "description": "利用五行之力快速移动" },
+  "炼丹术": { "power": 5, "cost": 2, "description": "炼制各种丹药" },
+  "天眼通": { "power": 15, "cost": 8, "description": "洞察万物本质" },
+  "金刚不坏": { "power": 20, "cost": 10, "description": "强化防御能力" },
+  "九阳神功": { "power": 18, "cost": 9, "description": "增强体质和恢复能力" },
+  "乾坤大挪移": { "power": 12, "cost": 6, "description": "转移敌人攻击" },
+  "吸星大法": { "power": 25, "cost": 12, "description": "吸收敌人功力" },
+  "太极神功": { "power": 16, "cost": 8, "description": "平衡阴阳，增强修炼速度" },
+  "七十二变": { "power": 14, "cost": 7, "description": "变化多端，迷惑敌人" },
+  "九阴白骨爪": { "power": 22, "cost": 11, "description": "诡异狠毒的爪法" },
+  "六脉神剑": { "power": 19, "cost": 9, "description": "以气化剑，威力无穷" },
+  "北冥神功": { "power": 23, "cost": 11, "description": "吸收他人内力为己用" },
+  "易筋经": { "power": 17, "cost": 8, "description": "改变筋骨，增强体质" },
+  "葵花宝典": { "power": 26, "cost": 13, "description": "速度极快的剑法" },
+  "凌波微步": { "power": 11, "cost": 5, "description": "身法轻盈，避开攻击" },
+  "独孤九剑": { "power": 24, "cost": 12, "description": "以快打慢，破解各种招式" },
+  "九阴真经": { "power": 21, "cost": 10, "description": "集各家之长的武学总纲" },
+  "龙象般若功": { "power": 27, "cost": 14, "description": "刚猛无俦的外家功夫" },
+  "化功大法": { "power": 28, "cost": 14, "description": "化解敌人内力，为己所用" }
+}
